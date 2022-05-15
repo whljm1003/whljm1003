@@ -33,10 +33,11 @@
 <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=flat-square&amp;logo=miro&amp;logoColor=white" style="max-width:100%;">
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white" style="max-width:100%;">
 </div>
-</div>  
+ 
 
 ### contact me
 <div>
 <a href="https://velog.io/@whljm1003"><img alt="Blog" src="https://img.shields.io/badge/Blog-24cc94?style=flat-square&amp;logo=Vimeo&amp;logoColor=white" style="max-width:100%;"></a>
 <img alt="Gmail" src="https://img.shields.io/badge/whljm1003@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
+</div> 
 </div>
