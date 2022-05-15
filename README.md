@@ -8,14 +8,13 @@
 
 <h4>Front-end</h4>
 <div>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=black" style="max-width:100%;">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width:100%;">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=black" style="max-width:100%;">
 <img alt="React" src="https://img.shields.io/badge/React-55D7FA?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width:100%;">
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&amp;logo=react&logoColor=61DAFB" style="max-width:100%;">
-<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" style="max-width:100%;">
-<img alt="Styled-Components" src="https://img.shields.io/badge/Styled--Components-7F213F?style=flat-square&amp;logo=Styledcomponents&amp;logoColor=white" style="max-width:100%;">
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&amp;logo=Sass&amp;logoColor=white" style="max-width:100%;">
+<img alt="Styled-Components" src="https://img.shields.io/badge/Styled%20Components-7F213F?style=flat-square&amp;logo=Styledcomponents&amp;logoColor=white" style="max-width:100%;">
+<img alt="Styled-Components" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&amp;logo=react-query&amp;logoColor=white" style="max-width:100%;">
+<img alt="recoil" src="https://img.shields.io/badge/recoil-FF4154?style=flat-square&amp;logo=React&amp;logoColor=white" style="max-width:100%;">
 </div>
 <h4>Back-end</h4>
 <div>
