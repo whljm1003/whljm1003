@@ -32,9 +32,12 @@
 <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=flat-square&amp;logo=miro&amp;logoColor=white" style="max-width:100%;">
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white" style="max-width:100%;">
 </div>
- 
-
-### contact me
+</div>
+<img src="https://github-readme-stats.vercel.app/api?username=whljm1003&theme=discord_old_blurple&show_icons=true&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whljm1003&theme=discord_old_blurple&layout=compact" />
+     
+<div align="center">     
+        <h3>contact me</h3>
 <div>
 <a href="https://velog.io/@whljm1003"><img alt="Blog" src="https://img.shields.io/badge/Blog-24cc94?style=flat-square&amp;logo=Vimeo&amp;logoColor=white" style="max-width:100%;"></a>
 <img alt="Gmail" src="https://img.shields.io/badge/whljm1003@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
