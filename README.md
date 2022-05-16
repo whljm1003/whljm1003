@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&height=300&color=auto&animation=scaleIn&text=Hello,%20I'm%20jungmin&fontAlignY=40&desc=%20I'm%20fronetend%20developer%20🧑🏻‍💻&descAlignY=75&descSize=35)
 
 <br/>
-<br/>
 
 ### 🛠 Technology Stack 🛠
 
