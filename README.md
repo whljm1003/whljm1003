@@ -12,7 +12,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-55D7FA?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width:100%;">
 <img alt="Styled-Components" src="https://img.shields.io/badge/Styled%20Components-7F213F?style=flat-square&amp;logo=Styledcomponents&amp;logoColor=white" style="max-width:100%;">
 <img alt="Styled-Components" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&amp;logo=react-query&amp;logoColor=white" style="max-width:100%;">
-<img alt="recoil" src="https://img.shields.io/badge/recoil-FF4154?style=flat-square&amp;logo=React&amp;logoColor=white" style="max-width:100%;">
+<img alt="recoil" src="https://img.shields.io/badge/recoil-F09D13?style=flat-square&amp;logo=React&amp;logoColor=white" style="max-width:100%;">
 </div>
 <h4>Back-end</h4>
 <div>
