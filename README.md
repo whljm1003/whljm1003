@@ -3,6 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&height=300&color=auto&animation=scaleIn&text=Hello,%20I'm%20jungmin&fontAlignY=40&desc=%20I'm%20fronetend%20developer%20🧑🏻‍💻&descAlignY=75&descSize=35)
 
 <br/>
+<br/>
+
+- Portfolio : https://portfolio-whljm1003.vercel.app
+- Email: whljm1003@gmail.com
+
+<br/>
+<br/>
 
 ### 🛠 Technology Stack 🛠
 
@@ -33,9 +40,4 @@
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=slack&amp;logoColor=white" style="max-width:100%;">
 </div>
     
-<h3>contact me</h3>
-<div>
-<a href="https://velog.io/@whljm1003"><img alt="Blog" src="https://img.shields.io/badge/Blog-24cc94?style=flat-square&amp;logo=Vimeo&amp;logoColor=white" style="max-width:100%;"></a>
-<img alt="Gmail" src="https://img.shields.io/badge/whljm1003@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
-</div> 
 
