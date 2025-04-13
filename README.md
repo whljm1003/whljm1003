@@ -1,9 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhljm1003%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=react.svg&icon_color=%2357B8F7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![header](https://capsule-render.vercel.app/api?type=Slice&height=300&color=auto&animation=scaleIn&text=Hello,%20I'm%20jungmin&fontAlignY=40&desc=%20I'm%20fronetend%20developer%20🧑🏻‍💻&descAlignY=75&descSize=35)
-
-<br/>
-<br/>
 
 - Portfolio : https://portfolio-whljm1003.vercel.app
 - Email: whljm1003@gmail.com
