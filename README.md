@@ -7,7 +7,6 @@
 🔥 주어진 업무는 끝까지 책임감 있게 수행합니다.<br/>
 🤝 함께 성장하기 좋은 동료이자 개발자가 되고 싶습니다.<br/>
 
-
 ## 🛠 Tech Stack
 
 **Language**  
@@ -39,11 +38,11 @@
 ## 📫 Contact
 
 - Email: whljm1003@gmail.com
+- Blog: [https://velog.io/@whljm1003](https://velog.io/@whljm1003)
 - Portfolio: [https://portfolio-whljm1003.vercel.app](https://portfolio-whljm1003.vercel.app)
 
-
-
 ### 📂 Career
-|             |           Date           |              Languages, etc.             |
-|------------|:-----------------------:|:----------------------------------------:|
-|  Stevelabs  | 2022.09.05 ~ 2024.10.31  |     typescript, React, nextjs,           |
+
+|           |          Date           |      Languages, etc.       |
+| --------- | :---------------------: | :------------------------: |
+| Stevelabs | 2022.09.05 ~ 2024.10.31 | typescript, React, nextjs, |
