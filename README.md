@@ -40,9 +40,3 @@
 - Email: whljm1003@gmail.com
 - Blog: [https://velog.io/@whljm1003](https://velog.io/@whljm1003)
 - Portfolio: [https://portfolio-whljm1003.vercel.app](https://portfolio-whljm1003.vercel.app)
-
-### 📂 Career
-
-|           |          Date           |      Languages, etc.       |
-| --------- | :---------------------: | :------------------------: |
-| Stevelabs | 2022.09.05 ~ 2024.10.31 | typescript, React, nextjs, |
