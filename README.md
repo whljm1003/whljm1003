@@ -16,6 +16,7 @@
 **Front-End**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React--Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=z&logoColor=white)
 ![React Query](https://img.shields.io/badge/React--Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React--Hook--Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
@@ -23,6 +24,7 @@
 ![Emotion](https://img.shields.io/badge/Emotion-C76494?style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant--Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=radixui&logoColor=white)
 
 **Back-End**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
